@@ -1,4 +1,4 @@
 script:
-  - cd /specification/
+  - cd specification
   - make
   
